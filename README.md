@@ -6,4 +6,3 @@ La localización del sistema se realizará con un mapeo espacial por medio de te
 
 
 
-
